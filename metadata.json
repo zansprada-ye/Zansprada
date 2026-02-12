@@ -1,0 +1,8 @@
+{
+  "name": "DESA PENTUR",
+  "description": "A futuristic, elegant, and unique digital gateway for the Village of Dangan, featuring AI-powered citizen assistance and dynamic content management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
